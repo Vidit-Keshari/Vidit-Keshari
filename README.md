@@ -46,7 +46,7 @@ Also enjoying life in Visual Studio Code. 😎
 ## 🗿 Fun Facts:
 
 * 🎸 I play musical instruments
-* 🧠 I’m in grade 9 currently in year 2025 at age of 13
+* 🧠 I’m in grade 9 currently in year 2025 at age of 14
 * 👨‍💻I code myself, unless it's game logic
 * 🖼️ I mainly do front-end. I am also quite good at back-end but sometimes get stuck in console.log loops
 * 🚫 No server-side coding, that's what makes my webpages safe. I use local-storage, watch out for cache
