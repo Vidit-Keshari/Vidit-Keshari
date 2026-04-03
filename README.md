@@ -14,6 +14,8 @@ Yup, I create web games that break the fourth wall and possibly your localStorag
 * ❌⭕ Tic Tac Toe, or perhaps: [X and O](https://vidit-keshari.github.io/tic-tac-toe)  
 * 📦 All games published under the name **VGames** – games by me, for everyone else
 
+> Notice: Old Series has come to a close with a total of 3 games. It's too hard to maintain 2 series alone with consistency, and I am lazy too lol.
+
 ---
 
 ## 💻 I Speak Fluent Code (mostly)
