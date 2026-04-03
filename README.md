@@ -48,9 +48,10 @@ Also enjoying life in Visual Studio Code. 😎
 ## 🗿 Fun Facts:
 
 * 🎸 I play musical instruments
-* 🧠 I’m in grade 9 currently in year 2025 at age of 14
-* 👨‍💻I code myself, unless it's game logic
-* 🖼️ I mainly do front-end. I am also quite good at back-end but sometimes get stuck in console.log loops
+* 🧠 I’m in grade 10 currently as of year 2026 at age of 14 (will become 15 this year)
+* 👨‍💻 I prefer coding myself, but use AI to learn.
+* 🖼️ I mainly used to do front-end, but currently I am doing both front and backend but still not server-side.
+* 🖼️ I have learnt to code in Phaser lately. I have also experimented with Three.js and Cannon-es. I am looking forward to code more in Phaser and learn more about game dev and mechanics.
 * 🚫 No server-side coding, that's what makes my webpages safe. I use local-storage, watch out for cache
 
 ---
@@ -59,6 +60,8 @@ Also enjoying life in Visual Studio Code. 😎
 
 * 🔗 [GitHub Profile](https://github.com/Vidit-Keshari)
 * 🎮 [Scratch Profile](https://scratch.mit.edu/users/viditvihaan/)
+
+> Note that I do not have any other public profiles.
 
 ---
 
