@@ -5,63 +5,29 @@ some jokes and little fun. ☕
 
 ---
 
-## 🎮 I Make Games
+## 🎮 I liiebmaking games
+I have always loved making and games and you can find many reposnon games. But currently my focus has shifted from making games to learning to code better. And I am looking forward to learn fullstack web development.
 
-Yup, I create web games that break the fourth wall and possibly your localStorage too.
-
-* 💡 Lights Out: [Lights Out](https://vidit-keshari.github.io/lights-out/)  
-* 🔢 2048 but cooler: [2048](https://vidit-keshari.github.io/2048/)  
-* ❌⭕ Tic Tac Toe, or perhaps: [X and O](https://vidit-keshari.github.io/tic-tac-toe)  
-* 📦 All games published under the name **VGames** – games by me, for everyone else
-
-> Notice: Old Series has come to a close with a total of 3 games. It's too hard to maintain 2 series alone with consistency, and I am lazy too lol.
+Apart from games I like doing experiments.
 
 ---
 
 ## 💻 I Speak Fluent Code (mostly)
 
 ```txt
-HTML • CSS • JavaScript • Python • C++ (a little) • QBASIC (negligible) • Scratch (Somehow) • Thunkable (Did for a year) 
+HTML • CSS • JavaScript • Python
 ```
 
-Also enjoying life in Visual Studio Code. 😎
-
----
-
-## 🧠 I Like Breaking Stuff (With Style)
-
-* 🏷️ Made my own custom HTML tags for testing — because why not?  
-* 🧼 Obsessively clean, uncommented code that I barely understand after a month (because chaos is elegant)  
-* 🖥️ `console.log()` is my total help
-
----
-
-## 📦 My Repos May Contain:
-
-* 🎨 Creativity  
-* 🧱 Multiple commits on the same day (like stacking in Minecraft)  
-* 🧪 Experiments that totally weren’t supposed to work, but did anyway  
-* 🤡 Unintentional jokes
+Still learning...
 
 ---
 
 ## 🗿 Fun Facts:
 
 * 🎸 I play musical instruments
-* 🧠 I’m in grade 10 currently as of year 2026 at age of 14 (will become 15 this year)
+* 🧠 I’m still very young (born in 2011) and still in school
 * 👨‍💻 I prefer coding myself, but use AI to learn.
-* 🖼️ I mainly used to do front-end, but currently I am doing both front and backend but still not server-side.
-* 🖼️ I have learnt to code in Phaser lately. I have also experimented with Three.js and Cannon-es. I am looking forward to code more in Phaser and learn more about game dev and mechanics.
-* 🚫 No server-side coding, that's what makes my webpages safe. I use local-storage, watch out for cache
-
----
-
-## My profiles:
-
-* 🔗 [GitHub Profile](https://github.com/Vidit-Keshari)
-* 🎮 [Scratch Profile](https://scratch.mit.edu/users/viditvihaan/)
-
-> Note that I do not have any other public profiles.
+* 🖼️ I am learning backend development.
 
 ---
 
