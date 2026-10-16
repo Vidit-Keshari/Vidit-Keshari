@@ -65,6 +65,14 @@ Also enjoying life in Visual Studio Code. 😎
 
 ---
 
+## Beckend Dev Learning
+
+I have recently started the Backend development path (puthon + typescript) on [Boot.Dev](https://boot.dev)
+
+Here are tye certificates I have received:
+
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/44d6c298-5540-41ff-8547-8c7f98e7ca8b.jpeg?v=1792130778)](https://www.boot.dev/certificates/44d6c298-5540-41ff-8547-8c7f98e7ca8b)
+
 > I made this README using ChatGPT because I was feeling a little too lazy.
 
 A VGames Production
